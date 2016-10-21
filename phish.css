@@ -10,6 +10,10 @@ body {
 }
 
 #password {
-  position: realtive
-  top: 520
+  position: relative;
+  top: 520;
+  left: 360;
+  height: 50;
+  width: 400;
+
 }
