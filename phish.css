@@ -1,5 +1,5 @@
 body {
-  background-image: "https://lh3.googleusercontent.com/-3pLMSraftsk/WAo-qaYhVRI/AAAAAAAAAEA/fbOKD2TPHdQlRVd7X8UGjQGw56KYovtSACL0B/w1060-d-h862-p-rw/nueva.png"
+  background-image: url( "https://lh3.googleusercontent.com/-3pLMSraftsk/WAo-qaYhVRI/AAAAAAAAAEA/fbOKD2TPHdQlRVd7X8UGjQGw56KYovtSACL0B/w1060-d-h862-p-rw/nueva.png");
 }
 
 #border {
@@ -7,4 +7,8 @@ body {
   border-color: blue;
   height: 250px;
   width: 250px;
+}
+
+#thing {
+  background-image: https://lh3.googleusercontent.com/-3pLMSraftsk/WAo-qaYhVRI/AAAAAAAAAEA/fbOKD2TPHdQlRVd7X8UGjQGw56KYovtSACL0B/w1060-d-h862-p-rw/nueva.png
 }
