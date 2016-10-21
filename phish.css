@@ -9,3 +9,7 @@ body {
   width: 250px;
 }
 
+#password {
+  position: realtive
+  top: 520
+}
